@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uidata version="1">
+  <data environment="detailmonitor"/>
+  <data environment="fullscreen"/>
+  <data environment="fullscreen2">
+__CORE_DEBUGLOG_LOG = {
+[&quot;lastClear&quot;]={
+[&quot;major&quot;]=3.000000,
+[&quot;minor&quot;]=53.000000,},
+[&quot;version&quot;]=4.000000,
+[&quot;data&quot;]={
+[14.000000]={
+[&quot;gamestart&quot;]=3.000000,
+[&quot;message&quot;]=&quot;Error: Failed to set posteffect shader name GLOW, skipping!&quot;,
+[&quot;timestamp&quot;]=1430690572.000000,},
+[2.000000]={
+[&quot;gamestart&quot;]=1.000000,
+[&quot;message&quot;]=&quot;Error: [Video.Start] Failed to start movie -1313558101&quot;,
+[&quot;timestamp&quot;]=1430689505.000000,},
+[12.000000]={
+[&quot;gamestart&quot;]=3.000000,
+[&quot;message&quot;]=&quot;Error: Failed to set the fog shader, skipping!&quot;,
+[&quot;timestamp&quot;]=1430690572.000000,},
+[11.000000]={
+[&quot;gamestart&quot;]=3.000000,
+[&quot;message&quot;]=&quot;Error: Failed to set posteffect shader, skipping!&quot;,
+[&quot;timestamp&quot;]=1430690572.000000,},
+[10.000000]={
+[&quot;gamestart&quot;]=2.000000,
+[&quot;message&quot;]=&quot;Error: Invalid SoundID \&quot;hash(958769488)\&quot; on macro: \&quot;units_player_cockpit_1_macro\&quot;! No definition found in SoundLibrary.&quot;,
+[&quot;timestamp&quot;]=1430690002.000000,},
+[9.000000]={
+[&quot;gamestart&quot;]=2.000000,
+[&quot;message&quot;]=&quot;Error: extensions\\litauen_capital_ship_bridge\\md\\bridge_monitors.xml(44): Warning while parsing expression: Property lookup failed\
+* Input: player.cluster.macro == macro.cluster_osr_macro\
+* Pos:                                 ^^^^^^^^^^^^^^^^^&quot;,
+[&quot;timestamp&quot;]=1430689830.000000,},
+[8.000000]={
+[&quot;gamestart&quot;]=2.000000,
+[&quot;message&quot;]=&quot;Error: Property lookup failed: macro.cluster_osr_macro&quot;,
+[&quot;timestamp&quot;]=1430689830.000000,},
+[19.000000]={
+[&quot;gamestart&quot;]=4.000000,
+[&quot;message&quot;]=&quot;Error: Error in AI script player.default on entity 0x8267f3: Error evaluating &lt;event_object_attacked&gt; event object: Value 'null' is not of type component\
+* Expression: player.primaryship&quot;,
+[&quot;timestamp&quot;]=1430692831.000000,},
+[7.000000]={
+[&quot;gamestart&quot;]=2.000000,
+[&quot;message&quot;]=&quot;Error: Missing component macro 'cluster_osr_macro' in file 'maps\\xu_ep1_universe\\clusters' as referenced in: index\\macros&quot;,
+[&quot;timestamp&quot;]=1430689830.000000,},
+[1.000000]={
+[&quot;gamestart&quot;]=1.000000,
+[&quot;message&quot;]=&quot;Error: [Movie.LoadFormat] File videos/logo_publisher.mkv: File not found&quot;,
+[&quot;timestamp&quot;]=1430689504.000000,},
+[6.000000]={
+[&quot;gamestart&quot;]=2.000000,
+[&quot;message&quot;]=&quot;Error: Macro path '../../../../../cluster_b_connection/cluster_b_sector07_connection/tzonecluster_b_sector07_zone05_connection/clustergate_connection6688' not found in macro 'cluster_d_macro/cluster_d_sector17_macro/tzonecluster_d_sector17_zone34_macro/props_gates_anc_gate_macro' trying to find '../cluster_b_connection/cluster_b_sector07_connection/tzonecluster_b_sector07_zone05_connection/clustergate_connection6688' in 'cluster_d_macro'&quot;,
+[&quot;timestamp&quot;]=1430689830.000000,},
+[5.000000]={
+[&quot;gamestart&quot;]=2.000000,
+[&quot;message&quot;]=&quot;Error: Macro path '../../../../../cluster_c_connection/cluster_c_sector10_connection/tzonecluster_c_sector10_zone66_connection/clustergate_connection5838' not found in macro 'cluster_d_macro/cluster_d_sector20_macro/tzonecluster_d_sector20_zone54_macro/props_gates_anc_gate_macro' trying to find '../cluster_c_connection/cluster_c_sector10_connection/tzonecluster_c_sector10_zone66_connection/clustergate_connection5838' in 'cluster_d_macro'&quot;,
+[&quot;timestamp&quot;]=1430689830.000000,},
+[4.000000]={
+[&quot;gamestart&quot;]=2.000000,
+[&quot;message&quot;]=&quot;Error: Macro path '../../../../../cluster_a_connection/cluster_a_sector01_connection/tzonecluster_a_sector01_zone94_connection/clustergate_connection7474' not found in macro 'cluster_c_macro/cluster_c_sector08_macro/tzonecluster_c_sector08_zone88_macro/props_gates_anc_gate_b_macro' trying to find '../cluster_a_connection/cluster_a_sector01_connection/tzonecluster_a_sector01_zone94_connection/clustergate_connection7474' in 'cluster_c_macro'&quot;,
+[&quot;timestamp&quot;]=1430689830.000000,},
+[21.000000]={
+[&quot;gamestart&quot;]=5.000000,
+[&quot;message&quot;]=&quot;Error: Error in AI script player.default on entity 0x8741f4: Error evaluating &lt;event_object_attacked&gt; event object: Value 'null' is not of type component\
+* Expression: player.primaryship&quot;,
+[&quot;timestamp&quot;]=1430693146.000000,},
+[22.000000]={
+[&quot;gamestart&quot;]=5.000000,
+[&quot;message&quot;]=&quot;Error: Error in AI script move.follow on entity 0x8741f4: Error evaluating &lt;event_object_changed_zone&gt; event object: Value 'null' is not of type component\
+* Expression: $target&quot;,
+[&quot;timestamp&quot;]=1430693146.000000,},
+[13.000000]={
+[&quot;gamestart&quot;]=3.000000,
+[&quot;message&quot;]=&quot;Error: Failed to set the distortion shader, skipping!&quot;,
+[&quot;timestamp&quot;]=1430690572.000000,},
+[20.000000]={
+[&quot;gamestart&quot;]=4.000000,
+[&quot;message&quot;]=&quot;Error: Error in AI script move.follow on entity 0x8267f3: Error evaluating &lt;event_object_changed_zone&gt; event object: Value 'null' is not of type component\
+* Expression: $target&quot;,
+[&quot;timestamp&quot;]=1430692831.000000,},
+[18.000000]={
+[&quot;gamestart&quot;]=4.000000,
+[&quot;message&quot;]=&quot;Error: Error in MD cue md.Plot_ep1_ch1.P3_Player_Undocked: Signalled cue has no corresponding listeners\
+* Expression: P3_Add_Ship_To_Squad_Conv_Init&quot;,
+[&quot;timestamp&quot;]=1430692714.000000,},
+[17.000000]={
+[&quot;gamestart&quot;]=4.000000,
+[&quot;message&quot;]=&quot;Error: Error in MD cue md.MainMenu.SectionHandler&lt;inst:80a810&gt;: Evaluated value 'null' is not of type component\
+* Expression: $object.pilot&quot;,
+[&quot;timestamp&quot;]=1430691947.000000,},
+[16.000000]={
+[&quot;gamestart&quot;]=4.000000,
+[&quot;message&quot;]=&quot;Error: Invalid SoundID \&quot;hash(958769488)\&quot; on macro: \&quot;interiors_rooms_ar_first_person_hud_glass_macro\&quot;! No definition found in SoundLibrary.&quot;,
+[&quot;timestamp&quot;]=1430690807.000000,},
+[15.000000]={
+[&quot;gamestart&quot;]=3.000000,
+[&quot;message&quot;]=&quot;Error: Failed to set luminance shader, skipping!&quot;,
+[&quot;timestamp&quot;]=1430690572.000000,},
+[3.000000]={
+[&quot;gamestart&quot;]=2.000000,
+[&quot;message&quot;]=&quot;Error: [Movie.LoadFormat] File videos/logo_publisher.mkv: File not found&quot;,
+[&quot;timestamp&quot;]=1430689829.000000,},},}
+</data>
+</uidata>
